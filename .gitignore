@@ -83,3 +83,6 @@ local.properties
 # TeXlipse plugin
 .texlipse
 
+*.iml
+*.idea
+target/
